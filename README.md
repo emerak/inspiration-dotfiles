@@ -10,7 +10,7 @@ Tools](https://developer.apple.com/downloads) and may overwrite existing
 dotfiles in your HOME and `.dotfiles, .vim` directories.
 
 ```bash
-$ bash -c "$(curl -fsSL raw.github.com/cesargomez89/inspiration-dotfiles/master/bin/dotfiles)"
+$ bash -c "$(curl -fsSL raw.github.com/emerak/inspiration-dotfiles/master/bin/dotfiles)"
 ```
 
 N.B. If you wish to fork this project and maintain your own dotfiles, you must
